@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+Reporting_System/bin
+Reporting_System/obj
